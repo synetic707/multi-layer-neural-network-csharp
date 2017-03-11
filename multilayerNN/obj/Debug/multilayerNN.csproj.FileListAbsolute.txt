@@ -1,0 +1,8 @@
+C:\Users\synetic707\Desktop\multi-layer-neural-network\multilayerNN\multilayerNN\bin\Debug\multilayerNN.exe.config
+C:\Users\synetic707\Desktop\multi-layer-neural-network\multilayerNN\multilayerNN\bin\Debug\multilayerNN.exe
+C:\Users\synetic707\Desktop\multi-layer-neural-network\multilayerNN\multilayerNN\bin\Debug\multilayerNN.pdb
+C:\Users\synetic707\Desktop\multi-layer-neural-network\multilayerNN\multilayerNN\bin\Debug\MathNet.Numerics.dll
+C:\Users\synetic707\Desktop\multi-layer-neural-network\multilayerNN\multilayerNN\bin\Debug\MathNet.Numerics.xml
+C:\Users\synetic707\Desktop\multi-layer-neural-network\multilayerNN\multilayerNN\obj\Debug\multilayerNN.csprojResolveAssemblyReference.cache
+C:\Users\synetic707\Desktop\multi-layer-neural-network\multilayerNN\multilayerNN\obj\Debug\multilayerNN.exe
+C:\Users\synetic707\Desktop\multi-layer-neural-network\multilayerNN\multilayerNN\obj\Debug\multilayerNN.pdb
